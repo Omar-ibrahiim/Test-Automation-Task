@@ -13,5 +13,5 @@ Version for some of these can be found in the POM file.
 2) Eclipse
 
 # Result
-![Test Result]([video.mp4](https://github.com/Omar-ibrahiim/Test-Automation-Task/blob/main/video.mp4))
+![Gif result](https://github.com/Omar-ibrahiim/Test-Automation-Task/blob/main/gif.gif)
 
