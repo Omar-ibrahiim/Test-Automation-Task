@@ -13,7 +13,5 @@ Version for some of these can be found in the POM file.
 2) Eclipse
 
 # Result
-<video width="320" height="240" controls>
-  <source src="video.mp4" type="video/mp4">
-</video>
+![](video.mp4)
 
